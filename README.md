@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/efmct30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efmct30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/efmct30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efmct30" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/efmct30](https://www.linkedin.com/in/enzo-castillo/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efmct30" height="30" width="40" /></a>
 <a href="[https://fb.com/enzofranchescocastillo](https://www.facebook.com/enzo.castillotara/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enzofranchescocastillo" height="30" width="40" /></a>
 <a href="https://instagram.com/efmct30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efmct30" height="30" width="40" /></a>
 <a href="https://discord.gg/EFMCT30#8160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EFMCT30#8160" height="30" width="40" /></a>
