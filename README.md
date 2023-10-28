@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enzo Castillo</h1>
 <h3 align="center">A passionate programming student</h3>
 
-- 🌱 I’m currently learning **Spring Boot, ASP .NET CORE Y Mobile Applications on Android - Kotlin**
+- 🌱 I’m currently learning **Spring Boot, Angular, ASP .NET CORE Y Mobile Applications on Android - Kotlin**
 
 - 📫 How to reach me **enzofranchesco.ec@gmail.com**
 
